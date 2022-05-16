@@ -9,6 +9,8 @@
 
 Launch the web app:
 
+https://share.streamlit.io/kparde/multi-page-app-main/main/app.py
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/multi-page-app/main/app.py)
 
 # Reproducing this web app
